@@ -1,0 +1,21 @@
+body {
+  min-height: 75rem;
+  padding-top: 5.5rem;
+}
+
+.container {
+  width: auto;
+  padding: 0 15px;
+}
+
+.navbar .row {
+  align-items: center;
+}
+
+.dropdown-menu {
+  border: none;
+}
+
+.dropdown-item {
+  color: #eee;
+}
