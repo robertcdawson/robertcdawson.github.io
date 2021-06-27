@@ -12,6 +12,15 @@ body {
   align-items: center;
 }
 
+.navbar .logo {
+  background: #fff;
+  padding: 0.2rem 0.7rem 0.2rem 1rem;
+}
+
+.navbar .site-title {
+  background: #4D028C;
+}
+
 .dropdown-menu {
   border: none;
 }
